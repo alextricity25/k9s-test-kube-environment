@@ -1,0 +1,5 @@
+name: k9s-test-kube-environment
+runtime:
+  name: nodejs
+description: A test environment for k9s development
+

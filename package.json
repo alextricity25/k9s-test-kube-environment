@@ -1,0 +1,13 @@
+{
+    "name": "k9s-test-kube-environment",
+    "private": true,
+    "version": "0.0.0",
+    "devDependencies": {
+        "@types/node": "^18.0.3"
+    },
+    "dependencies": {
+        "@pulumi/kubernetes": "^4.0.3",
+        "@pulumi/pulumi": "^3.75.0"
+    },
+    "packageManager": "yarn@4.5.0"
+}
